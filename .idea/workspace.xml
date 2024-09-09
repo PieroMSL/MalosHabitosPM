@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36bb7247-7b6f-49d2-be15-86f95527d857" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalosHabitos/Ejemplo01_V1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalosHabitos/Ejemplo01_V1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalosHabitos/Ejemplo02_V1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalosHabitos/Ejemplo02_V1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalosHabitos/Ejemplo03_V1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalosHabitos/Ejemplo03_V1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="36bb7247-7b6f-49d2-be15-86f95527d857" name="Changes" comment="Proyecto Malos Habitos actualizacion orden" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -45,12 +35,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemplo01.executor": "Run",
+    "Python.Ejemplo01_V1_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/ProyectoPMS04/pythonProject/MalosHabitos"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProyectoPMS04\pythonProject\MalosHabitos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProyectoPMS04\pythonProject\MalosHabitos\Codigo No Limpio" />
+      <recent name="D:\ProyectoPMS04\pythonProject\MalosHabitos\Codigo Limpio" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -91,7 +91,45 @@
       <option name="presentableId" value="Default" />
       <updated>1725921424503</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto Malos Habitos">
+      <option name="closed" value="true" />
+      <created>1725922693335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922693335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto Malos Habitos actualizacion orden">
+      <option name="closed" value="true" />
+      <created>1725922821784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922821784</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto Malos Habitos actualizacion orden">
+      <option name="closed" value="true" />
+      <created>1725922852290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922852290</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Proyecto Malos Habitos actualizacion orden">
+      <option name="closed" value="true" />
+      <created>1725922950729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922950729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto Malos Habitos" />
+    <MESSAGE value="Proyecto Malos Habitos actualizacion orden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto Malos Habitos actualizacion orden" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
