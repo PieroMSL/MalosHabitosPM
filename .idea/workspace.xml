@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36bb7247-7b6f-49d2-be15-86f95527d857" name="Changes" comment="Proyecto Malos Habitos actualizacion orden" />
+    <list default="true" id="36bb7247-7b6f-49d2-be15-86f95527d857" name="Changes" comment="Refactorizacion Ejemplo 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,13 +147,39 @@
       <option name="project" value="LOCAL" />
       <updated>1725923476698</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactorizacion Ejemplo 01">
+      <option name="closed" value="true" />
+      <created>1725923843706</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923843706</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refactorizacion Ejemplo 02">
+      <option name="closed" value="true" />
+      <created>1725923852376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923852376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactorizacion Ejemplo 02">
+      <option name="closed" value="true" />
+      <created>1725923857054</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923857054</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto Malos Habitos" />
     <MESSAGE value="Proyecto Malos Habitos actualizacion orden" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto Malos Habitos actualizacion orden" />
+    <MESSAGE value="Refactorizacion Ejemplo 01" />
+    <MESSAGE value="Refactorizacion Ejemplo 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactorizacion Ejemplo 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
