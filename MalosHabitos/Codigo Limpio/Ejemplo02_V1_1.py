@@ -4,9 +4,9 @@ def Calcular(variable1, variable2, variable3):
 
 
 if __name__ == "__main__":
-    numero1 = float(input("Ingresa numero 1:"))
-    numero2 = float(input("Ingresa numero 2:"))
-    numero3 = float(input("Ingresa numero 3:"))
+    numero1 = float(input("Ingresa número 1: "))
+    numero2 = float(input("Ingresa número 2: "))
+    numero3 = float(input("Ingresa número 3: "))
     resultado = Calcular(numero1, numero2, numero3)
     print("El resultado es:", resultado)
 
